@@ -2,6 +2,9 @@
 
 Are you an aspiring developer? Want to show off your coding skills. Then here is a CLI of your resume (or you can use it in any innovative way, as you want). This CLI is focused on my resume and skills. It has basics information and can be expanded.
 
+### :Package
+`npx dhruv-dev-resume` -> excute this command on Terminal
+
 ### :white_check_mark: Options
 
 As of now there are below options:
@@ -40,15 +43,6 @@ It is based on nodjes and used few packages.
 
 1. Added Exit and Go Back option.
 2. Added Line break options in the content.
-
-### :memo: To-Do
-
-1. To fix all the known issues.
-2. Add themes options for fonts.
-3. Publish as npm package.
-4. Need to update the content.
-5. Need to refactor the code-base and code.
-6. Add help section.
 
 ### :hearts: Collabrations
 
